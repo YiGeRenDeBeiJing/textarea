@@ -1,0 +1,23 @@
+.box{
+    width: 400px;
+    height: 400px;
+    border: 1px solid black;
+    position: relative;
+    background: #fff;
+}
+.box textarea{
+    background: rgba(0, 0, 0, 0);
+    border-width: 0;
+    width: 400px;
+    height: 400px;
+    color: black;
+    padding: 0;
+    font-size: 12px;
+    font-family: fangsong;
+}
+.box .tips{
+    position: absolute;
+    color: gray;
+    font-size: 12px;
+    font-family: fangsong;
+}
